@@ -1,0 +1,203 @@
+.topdiv {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 25px;
+  /* background-color: rgb(84, 190, 155); */
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+.topdiv {
+  padding-top: 30px;
+  text-align: center;
+  font-size: 25px;
+  background-color: rgb(233 220 221);
+  font-size: 30 px;
+  padding-bottom: 2px;
+}
+
+body {
+  overflow: inherit;
+}
+
+.firsth1tag {
+
+   color:black;
+}
+.secondh1tag{
+  color:black;
+  font-size: xx-large;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px;
+  background-color: rgb(206, 212, 212);
+  text-align: center;
+}
+
+.LinkInsideButton {
+  font-style: arial;
+  font-weight: 200px;
+  font-size: 33px;
+  color: darkblue;
+  text-decoration: none;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.label {
+  margin-right: 30px;
+  font-size: 33px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.second-div {
+  margin: 190px;
+  font-size: 20px;
+  margin-top: 90px;
+}
+
+.para {
+  overflow-wrap: break-word;
+  hyphens: auto;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 10px;
+}
+
+.firstinput {
+  margin-left:70%;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 33px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.contentdiv {
+
+  display: flex;
+  justify-content: space-evenly;
+  padding: 40px;
+  /* background-color: rgb(158, 206, 207); */
+  padding-bottom: 100px;
+}
+
+#leftbox {
+
+ /* background-color: rgb(181, 230, 225); */
+ background-color: #c9dbd5;
+ padding:20px;
+ word-wrap:break-word;
+ margin: 33px;
+ border-radius: 10px;
+ /* inline-size: auto; */
+ /* width: 33px; */
+}
+
+#middlebox {
+  background-color: #c9dbd5;
+padding:20px;
+word-wrap: break-word;
+margin: 33px;
+/* background-color: rgb(181, 230, 225); */
+border-radius: 10px;
+
+
+/* width:33px; */
+}
+
+#rightbox {
+  border-radius: 10px;
+  background: #c9dbd5;
+  padding:20px;
+  word-wrap: break-word;
+  margin:33px;
+  /* background-color: rgb(181, 230, 225); */
+
+  /* width :33px; */
+}
+
+h1 {
+  color: green;
+  text-align: center;
+
+}
+
+.lang-description {
+  text-align: left;
+  margin-left: 33px;
+}
+
+
+
+.paragraphHoldsLangdescription {
+  margin-left: 20px;
+  text-overflow: inherit;
+}
+.label {
+  margin-left: 15px;
+  padding: 20px;
+  font-size: 16px;
+}
+.footer {
+  padding-top: 20px;
+  display: flex;
+  justify-self: start;
+  justify-content: space-evenly;
+  /* background-color: rgb(149, 189, 185); */
+  /* color:black; */
+  height: 60px;
+  width :100%;
+  font-size :30px;
+  text-decoration: none;
+}
+.ListInfooter{
+  list-style-type: none;
+  font-size: 33px;
+}
+.lastNavbar{
+  display: flex;
+  text-align: space-evenly;
+  /* background-color:; */
+}
+
+
+.Forspace {
+  height:33px;
+}
+.Language-ref{
+  text-decoration: none;
+  font-size: 30px;
+  /* color:black; */
+}
+.courses{
+
+  display: flex;
+  justify-content: space-evenly;
+  /* background-color: rgb(197, 221, 228); */
+  background-color:rgb(198 216 225);;
+  border-radius: 10px;
+
+}
+.insidecourses{
+
+    margin:33px;
+    padding:10px;
+    width: 80px;
+    background-color: rgb(242, 245, 238);
+    border-radius: 10px;
+
+}
+.enrollment{
+  text-decoration: none;
+  /* color: black; */
+}
+
+.best{
+color: black;
+margin-bottom: 0px;
+font-size: x-large;
+}
+.TargetToEnrollement{
+  font-size: large;
+}

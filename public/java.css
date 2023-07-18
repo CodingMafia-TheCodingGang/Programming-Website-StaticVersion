@@ -1,0 +1,92 @@
+.navbar{
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(218, 233, 221);
+    height: 33px;
+    width: 100%;
+    margin:20px;
+    padding :20px;
+    margin-left: 0px;
+    margin-right:0px;
+}
+
+body{
+    background-color: rgb(222, 234, 236);
+}
+.heading{
+    margin :10px;
+    list-style-type:none;
+    /* background-color: red; */
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font:  sans-serif;
+    color:black;
+    /* margin-top: ; */
+}
+.contentlist{
+    background-color:rgb(238, 239, 235);
+    width: 20%;
+    border-radius: 10px;
+    margin-left:20px;
+    padding-top: 80px;
+
+}
+.content{
+    background-color: rgb(231, 234, 221);
+    /* display: inline-block; */
+    width:100%;
+    padding:20px;
+    width:900px;
+    height:100%;
+    word-break: normal;
+    border-radius: 10px;
+    margin-left:20px;
+}
+
+.fullcontent{
+
+    background-color: rgb(224, 235, 237);
+    display: flex;
+}
+
+.headinginside{
+    text-decoration: none;
+    word-wrap: break-word;
+    /* color:black; */
+    
+}
+
+.topheadings{
+    font-size:x-large;
+    text-decoration: black;
+    font-family: 'Courier New', Courier, monospace;
+    font:  sans-serif;
+    color:black;
+    text-align: center;
+    
+}
+.oncontent{
+    background-color: rgb(224, 240, 235);
+    word-wrap: break-word;
+    display: flex;
+    width:80%;
+    padding:40px;
+    margin-left: 10%;
+    border-radius:10px;
+    line-height: 23px;
+    margin-top: 40px;
+    color:black;
+}
+
+
+.classIntro{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    margin-left:50px;
+    margin-top:30px;
+    padding-left: 33px;
+    color:black;
+
+}
